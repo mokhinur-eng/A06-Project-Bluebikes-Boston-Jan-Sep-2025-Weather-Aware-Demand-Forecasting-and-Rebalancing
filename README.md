@@ -5,6 +5,8 @@
 **Team members:** Emily Su, Vishesh Goyal, Grace Kung, Mokhinur Talibzhanova, Anton Falk
 
 **Filename:** `A06-Bluebikes-Weather-Forecasting.ipynb`
+[Since GitHub cannot open the notebook due to certain objects, please access it via Colab using this link.](https://colab.research.google.com/drive/1Fpzkx0RnaJVrT5pT-3B1S6dmDLnZoYGI?usp=sharing)
+
 
 ## **Dashboard**
 [Dashboard 1](https://public.tableau.com/views/BA775-TeamA06-Dashboard/Dashboard-HowtheCityRides?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -16,7 +18,7 @@
 
 
 ## **Story Boards**
-[Story Board 1 (How the City Rides)](https://www.google.com/url?q=https%3A%2F%2Fpublic.tableau.com%2Fviews%2FBA775-TeamA06-Dashboard%2FWhenWeatherRulestheRide%3F%3Alanguage%3Den-US%26publish%3Dyes%26%3Asid%3D%26%3Aredirect%3Dauth%26%3Adisplay_count%3Dn%26%3Aorigin%3Dviz_share_link)
+[Story Board 1 (How the City Rides)](https://public.tableau.com/views/BA775-TeamA06-Dashboard/HowtheCityRidesStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="994" height="627" alt="image" src="https://github.com/user-attachments/assets/13d4a0d5-0297-48d6-9ae8-ac2a53e1ff5d" />
 
